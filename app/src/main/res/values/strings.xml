@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A7S212021prac5</string>
+    <string name="ListaImagen">Lista de imagenes</string>
+    <string name="piepantalla">Derechos Reservados</string>
+    <string name="logodeandroid1">logo de android</string>
+    <string name="logogears">Logo de gears</string>
+    <string name="logoff">Logo de Final Fantasy</string>
+    <string name="wood">madera</string>
+    <string name="miboton">¡Presiona Aqui!</string>
+    <string name="ingresanombre">Ingresa Tu Nombre</string>
+</resources>
